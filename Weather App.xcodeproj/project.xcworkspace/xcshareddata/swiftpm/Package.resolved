@@ -1,0 +1,15 @@
+{
+  "originHash" : "4708209c7bf5f316fdc08c9b72f997570b1c2357cbfb64306e8ba562f12e7eba",
+  "pins" : [
+    {
+      "identity" : "bottomsheet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Wouter125/BottomSheet",
+      "state" : {
+        "revision" : "ccc7f6ceb2de1dbb132540f73167182dc2c7ec91",
+        "version" : "2.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
